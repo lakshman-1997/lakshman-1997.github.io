@@ -1,6 +1,1 @@
-[
-    {"name":"Task1","deadline":"3:30 PM"},
-    {"name":"Task2","deadline":"3:40 PM"},
-    {"name":"Task3","deadline":"4:40 PM"},
-    {"name":"Task4","deadline":"5:30 PM"}
-]
+{"1":[["task1","20:00"],["task2","22:00"],["task3","18:00"]]}
